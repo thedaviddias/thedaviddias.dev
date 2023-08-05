@@ -13,7 +13,7 @@ const config: DefaultSeoProps = {
     },
     images: [
       {
-        url: `/og/default.png`,
+        url: `https://thedaviddias.dev/images/og/default.png`,
         alt: 'The David Dias',
       },
     ],
