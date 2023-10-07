@@ -40,7 +40,7 @@
     "next-plausible": "^3.7.2",
     "next-seo": "^6.1.0",
     "next-themes": "0.2.1",
-    "postcss": "^8.4.24",
+    "postcss": "^8.4.31",
     "prettier": "^2.8.8",
     "react": "18.2.0",
     "react-dom": "18.2.0",
