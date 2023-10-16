@@ -60,7 +60,7 @@
     "@octokit/graphql-schema": "^14.9.1",
     "@playwright/test": "^1.35.0",
     "@sentry/nextjs": "7.54.0",
-    "@sentry/node": "7.54.0",
+    "@sentry/node": "7.74.0",
     "@svgr/webpack": "6.5.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
